@@ -8,6 +8,6 @@
             "First Name: " + firstName.value + "\n" +
             "Last Name: " + lastName.value + "\n" +
             "Phone Number: " + phone.value + "\n" +
-            "Email ID " + email.value
+            "Email ID: " + email.value
         );
     });
